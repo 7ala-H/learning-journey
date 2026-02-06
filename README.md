@@ -1,6 +1,7 @@
-# learning-journey
+# Learning Journey 
+
 Hi! I'm Hala 👋  
-I'm building my skills through learning and practice in:
+I'm learning and practicing:
 
 ✨ Python  
 ✨ SQL  
@@ -8,17 +9,12 @@ I'm building my skills through learning and practice in:
 ✨ HTML & JavaScript  
 ✨ Basics of AI & Data Science
 
-Here you’ll find:
-- Small practice files
+This repository will be updated with small practice files and mini projects.
+
+## What’s Here
+- Practice files
 - Mini projects
 - Learning notes
 
-I’m improving step by step and will update this repo with more content.
-
-## Goals
-- Add at least one project weekly
-- Strengthen fundamentals in each language
-- Document what I learn
-
 ## Contact
-hala4442011@hotmail.com
+For questions or collaboration, please open an issue in this repository.
