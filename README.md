@@ -1,2 +1,10 @@
 # learning-journey
-My learning projects and mini apps (Python, HTML, JavaScript;Java )SQL ; AI,DATA SCIENCE
+My learning projects 
+python
+sql
+java
+ai
+data-science
+html
+javascript
+
